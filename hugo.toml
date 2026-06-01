@@ -10,7 +10,7 @@ theme = 'hugo-book'
 [menu]
   [[menu.home]]
     name = "Documentation"
-    pageRef = "/docs/content/"
+    pageRef = "/docs/content/resources/"
     weight = 2
 
 [caches]
