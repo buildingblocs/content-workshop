@@ -2,8 +2,6 @@
 Title: Resources
 ---
 
-# Resources for Basics of Python
+# Resources for Python: Object Oriented Programming
 
-Slides
-
-Things needed to be downloaded
+Will be updated soon

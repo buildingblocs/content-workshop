@@ -3,7 +3,7 @@ Title: Resources [Pt 1]
 weight: 1
 ---
 
-# C\# for Game Development Resources
+# C\# for Game Development Resources [Part 1]
 
 ## Slides
 ![][image1]
