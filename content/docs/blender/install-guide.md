@@ -1,3 +1,8 @@
+---
+Title: Installation Guide
+weight: 2
+---
+
 # Blender Installation Guide
 
 Blender 5.1 will be used for the workshop. You may want to download earlier as Blender is large.

@@ -20,7 +20,7 @@ weight: 1
 - [Resources](/docs/game-design/resources/)
 
 #### C# for Game Dev
-- [Resources](/docs/c-sharp/resources/)
+- [Resources](/docs/c-sharp/resources1/)
 
 ## Day 2
 ### Pygame Track
@@ -32,7 +32,7 @@ weight: 1
 
 ### Unity Track
 #### C# for Game Dev
-- [Resources](/docs/c-sharp/resources/)
+- [Resources](/docs/c-sharp/resources2/)
 
 #### Unity
 - [Resources](/docs/unity/resources/)
