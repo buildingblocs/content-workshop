@@ -1,5 +1,6 @@
 ---
 Title: Resources
+weight: 1
 ---
 
 # Resources for Electronic Music Composition

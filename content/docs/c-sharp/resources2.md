@@ -3,11 +3,16 @@ Title: Resources [Pt 2]
 weight: 1
 ---
 
-# C\# for Game Development Resources
+# C\# for Game Development Resources [Part 2]
 
 ## Slides
 ![][image1]
 [Click to access the slides](https://docs.google.com/presentation/d/1UZB1Sd93AgKX5gcK5N-NuTfI7Fg3BNaXo48ySLC0oaA/edit?usp=sharing)
+
+## Exercises
+- [Exercise3.cs](https://drive.google.com/file/d/1_aWnLVti8LZOKjOfddQ6x4lZYWtajVbC/view?usp=sharing)
+- [Exercise4.cs](https://drive.google.com/file/d/1gICXMfPhD_-PIXWUd_zZKhWovy_LlQNP/view?usp=sharing)
+- [Exercise5.cs](https://drive.google.com/file/d/1xdirXh2Nzjy6UAsRLnBClEIdH3D0nCo8/view?usp=sharing)
 
 ## Summary Exercise
 ### Document
