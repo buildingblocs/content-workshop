@@ -7,4 +7,4 @@ weight: 1
 
 ## Slides
 ![](slide.png)
-[Click to access the slides](https://drive.google.com/file/d/1fLhteejN4mhk4xOlLT_8i6yiXIQeG8RT/view?usp=sharing)
+[Click to access the slides](https://docs.google.com/presentation/d/14xQupq7pDgY4QdGS87KKp2U9vnEK7wHGe7PINRG5qUc/edit?usp=sharing)
